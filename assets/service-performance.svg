@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#edf5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <text x="70" y="70" font-size="32" font-family="Arial, sans-serif" font-weight="700" fill="#123b5b">Service performance dashboard</text>
+  <text x="70" y="108" font-size="18" font-family="Arial, sans-serif" fill="#4a6277">Operational Health Overview</text>
+
+  <rect x="70" y="150" width="250" height="120" rx="14" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="95" y="190" font-size="16" font-family="Arial, sans-serif" fill="#5b7285">Water point uptime</text>
+  <text x="95" y="240" font-size="42" font-family="Arial, sans-serif" font-weight="700" fill="#0a7e61">81%</text>
+  <text x="95" y="260" font-size="14" font-family="Arial, sans-serif" fill="#64839d">Target 90%</text>
+
+  <rect x="350" y="150" width="250" height="120" rx="14" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="375" y="190" font-size="16" font-family="Arial, sans-serif" fill="#5b7285">Avg. repair time</text>
+  <text x="375" y="240" font-size="42" font-family="Arial, sans-serif" font-weight="700" fill="#d97706">6.4 days</text>
+  <text x="375" y="260" font-size="14" font-family="Arial, sans-serif" fill="#64839d">Down from 8.1</text>
+
+  <rect x="630" y="150" width="250" height="120" rx="14" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="655" y="190" font-size="16" font-family="Arial, sans-serif" fill="#5b7285">Critical sites</text>
+  <text x="655" y="240" font-size="42" font-family="Arial, sans-serif" font-weight="700" fill="#b91c1c">23</text>
+  <text x="655" y="260" font-size="14" font-family="Arial, sans-serif" fill="#64839d">Need intervention</text>
+
+  <rect x="910" y="150" width="220" height="120" rx="14" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="935" y="190" font-size="16" font-family="Arial, sans-serif" fill="#5b7285">Coverage gap</text>
+  <text x="935" y="240" font-size="42" font-family="Arial, sans-serif" font-weight="700" fill="#1d4ed8">17%</text>
+  <text x="935" y="260" font-size="14" font-family="Arial, sans-serif" fill="#64839d">Priority areas</text>
+
+  <rect x="70" y="330" width="520" height="290" rx="18" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="100" y="365" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#123b5b">Maintenance backlog by region</text>
+  <g transform="translate(90,410)">
+    <rect x="0" y="60" width="70" height="150" fill="#60a5fa"/>
+    <rect x="90" y="100" width="70" height="110" fill="#93c5fd"/>
+    <rect x="180" y="80" width="70" height="130" fill="#60a5fa"/>
+    <rect x="270" y="20" width="70" height="190" fill="#1d4ed8"/>
+    <rect x="360" y="120" width="70" height="90" fill="#bfdbfe"/>
+    <text x="18" y="230" font-size="18" font-family="Arial, sans-serif" fill="#49667a">North</text>
+    <text x="108" y="230" font-size="18" font-family="Arial, sans-serif" fill="#49667a">East</text>
+    <text x="198" y="230" font-size="18" font-family="Arial, sans-serif" fill="#49667a">West</text>
+    <text x="288" y="230" font-size="18" font-family="Arial, sans-serif" fill="#49667a">South</text>
+    <text x="378" y="230" font-size="18" font-family="Arial, sans-serif" fill="#49667a">Coast</text>
+  </g>
+
+  <rect x="620" y="330" width="510" height="290" rx="18" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="650" y="365" font-size="26" font-family="Arial, sans-serif" font-weight="700" fill="#123b5b">Issue mix</text>
+  <circle cx="760" cy="530" r="110" fill="none" stroke="#e5e7eb" stroke-width="70"/>
+  <circle cx="760" cy="530" r="110" fill="none" stroke="#1d4ed8" stroke-width="70" stroke-dasharray="270 220" stroke-linecap="round" transform="rotate(-90 760 530)"/>
+  <circle cx="760" cy="530" r="110" fill="none" stroke="#0a7e61" stroke-width="70" stroke-dasharray="120 370" stroke-linecap="round" transform="rotate(30 760 530)"/>
+  <circle cx="760" cy="530" r="110" fill="none" stroke="#f59e0b" stroke-width="70" stroke-dasharray="90 400" stroke-linecap="round" transform="rotate(95 760 530)"/>
+  <text x="880" y="490" font-size="18" font-family="Arial, sans-serif" fill="#49667a">Pumps: 42%</text>
+  <text x="880" y="520" font-size="18" font-family="Arial, sans-serif" fill="#49667a">Pipelines: 31%</text>
+  <text x="880" y="550" font-size="18" font-family="Arial, sans-serif" fill="#49667a">Power: 17%</text>
+  <text x="880" y="580" font-size="18" font-family="Arial, sans-serif" fill="#49667a">Access: 10%</text>
+</svg>

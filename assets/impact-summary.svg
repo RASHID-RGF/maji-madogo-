@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f7fafc"/>
+  <text x="70" y="70" font-size="34" font-family="Arial, sans-serif" font-weight="700" fill="#123b5b">Expected operational impact</text>
+  <text x="70" y="108" font-size="18" font-family="Arial, sans-serif" fill="#4b6476">Scenario planning for resource allocation</text>
+
+  <rect x="90" y="170" width="300" height="170" rx="20" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="120" y="215" font-size="18" font-family="Arial, sans-serif" fill="#4b6476">Downtime reduction</text>
+  <text x="120" y="280" font-size="54" font-family="Arial, sans-serif" font-weight="700" fill="#0a7e61">-28%</text>
+  <text x="120" y="312" font-size="18" font-family="Arial, sans-serif" fill="#4b6476">Compared with baseline</text>
+
+  <rect x="450" y="170" width="300" height="170" rx="20" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="480" y="215" font-size="18" font-family="Arial, sans-serif" fill="#4b6476">Maintenance efficiency</text>
+  <text x="480" y="280" font-size="54" font-family="Arial, sans-serif" font-weight="700" fill="#1d4ed8">+35%</text>
+  <text x="480" y="312" font-size="18" font-family="Arial, sans-serif" fill="#4b6476">Better crew routing</text>
+
+  <rect x="810" y="170" width="300" height="170" rx="20" fill="#ffffff" stroke="#dfeaf5"/>
+  <text x="840" y="215" font-size="18" font-family="Arial, sans-serif" fill="#4b6476">Service reliability</text>
+  <text x="840" y="280" font-size="54" font-family="Arial, sans-serif" font-weight="700" fill="#d97706">+12 pts</text>
+  <text x="840" y="312" font-size="18" font-family="Arial, sans-serif" fill="#4b6476">Improved uptime</text>
+
+  <rect x="90" y="420" width="1020" height="180" rx="20" fill="#0f172a"/>
+  <text x="120" y="470" font-size="28" font-family="Arial, sans-serif" font-weight="700" fill="#ffffff">Recommendation</text>
+  <text x="120" y="515" font-size="22" font-family="Arial, sans-serif" fill="#dfeaf5">Shift from reactive repairs to risk-based maintenance and region-level prioritization.</text>
+  <text x="120" y="548" font-size="22" font-family="Arial, sans-serif" fill="#dfeaf5">This allows limited operational budget to focus on sites that drive the largest service gains.</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f5f9ff"/>
+  <text x="70" y="70" font-size="34" font-family="Arial, sans-serif" font-weight="700" fill="#123b5b">Repair prioritization matrix</text>
+  <text x="70" y="108" font-size="18" font-family="Arial, sans-serif" fill="#48667d">High-impact sites ranked by downtime risk and service importance</text>
+
+  <rect x="120" y="170" width="960" height="440" rx="20" fill="#ffffff" stroke="#dfeaf5"/>
+  <line x1="240" y1="170" x2="240" y2="610" stroke="#dfeaf5" stroke-width="2"/>
+  <line x1="120" y1="510" x2="1080" y2="510" stroke="#dfeaf5" stroke-width="2"/>
+  <text x="180" y="150" font-size="18" font-family="Arial, sans-serif" fill="#48667d">Impact</text>
+  <text x="980" y="560" font-size="18" font-family="Arial, sans-serif" fill="#48667d">Urgency</text>
+
+  <text x="150" y="330" font-size="16" font-family="Arial, sans-serif" fill="#48667d">High</text>
+  <text x="150" y="430" font-size="16" font-family="Arial, sans-serif" fill="#48667d">Medium</text>
+  <text x="150" y="560" font-size="16" font-family="Arial, sans-serif" fill="#48667d">Low</text>
+
+  <text x="430" y="590" font-size="16" font-family="Arial, sans-serif" fill="#48667d">High</text>
+  <text x="660" y="590" font-size="16" font-family="Arial, sans-serif" fill="#48667d">Medium</text>
+  <text x="910" y="590" font-size="16" font-family="Arial, sans-serif" fill="#48667d">Low</text>
+
+  <circle cx="540" cy="300" r="24" fill="#1d4ed8"/>
+  <circle cx="690" cy="260" r="22" fill="#0a7e61"/>
+  <circle cx="820" cy="360" r="20" fill="#f59e0b"/>
+  <circle cx="500" cy="430" r="18" fill="#fbbf24"/>
+  <circle cx="940" cy="420" r="18" fill="#ef4444"/>
+  <circle cx="710" cy="470" r="18" fill="#94a3b8"/>
+
+  <text x="568" y="306" font-size="14" font-family="Arial, sans-serif" fill="#123b5b">Site A</text>
+  <text x="718" y="266" font-size="14" font-family="Arial, sans-serif" fill="#123b5b">Site B</text>
+  <text x="848" y="366" font-size="14" font-family="Arial, sans-serif" fill="#123b5b">Site C</text>
+  <text x="528" y="436" font-size="14" font-family="Arial, sans-serif" fill="#123b5b">Site D</text>
+  <text x="968" y="426" font-size="14" font-family="Arial, sans-serif" fill="#123b5b">Site E</text>
+  <text x="738" y="476" font-size="14" font-family="Arial, sans-serif" fill="#123b5b">Site F</text>
+
+  <rect x="820" y="200" width="210" height="80" rx="10" fill="#0f172a" opacity="0.95"/>
+  <text x="842" y="234" font-size="18" font-family="Arial, sans-serif" fill="#ffffff">Priority treatment</text>
+  <text x="842" y="260" font-size="14" font-family="Arial, sans-serif" fill="#dbeafe">Immediate preventive maintenance</text>
+</svg>
